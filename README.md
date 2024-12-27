@@ -1,4 +1,4 @@
-# Demo of GitOps using GCP 
+# Demo of GitOps using GCP And Cloud Build Github App
 
-This is a demo of gitops on GCP. It's based on: https://cloud.google.com/kubernetes-engine/docs/tutorials/gitops-cloud-build
+This uses concepts introduced in [this](https://github.com/GoogleCloudBuild/hello-kubernetes)repo. 
 
